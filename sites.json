@@ -4532,6 +4532,16 @@
             "snapchat.com"
         ]
     },
+    
+        {
+        "name": "SocialShare",
+        "url": "http://www.social-share.net/",
+        "difficulty": "easy",
+        "notes": "Connect to your SocialShare account. Then go to My Account >> Profile and billing information >> Delete my account.",
+        "domains": [
+            "http://www.social-share.net/"
+        ]
+    },
 
     {
         "name": "Soluto",
